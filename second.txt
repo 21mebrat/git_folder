@@ -1,1 +1,12 @@
 majejaooejeioo
+ehello that is 
+Most efficient processing: Least amount of I/O and CPU resources.
+Selection of the best method:
+In a non-procedural language, the system does the optimization at the time of execution. On the other
+hand, in a procedural language, programmers have some flexibility in selecting the best method. For
+optimizing the execution of a query the programmer must know:
+ File organization
+ Record access mechanism and primary or secondary key.
+ Data location on disk.
+ Data access limitations.
+Approaches to Query Optimizatio
