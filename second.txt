@@ -10,3 +10,4 @@ optimizing the execution of a query the programmer must know:
  Data location on disk.
  Data access limitations.
 Approaches to Query Optimizatio
+hthat is yours
